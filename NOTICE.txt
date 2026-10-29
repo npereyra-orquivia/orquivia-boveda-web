@@ -1,0 +1,7 @@
+# Componentes reutilizados
+
+Este proyecto usa kdbxweb (MIT), hash-wasm (MIT), @supabase/supabase-js (MIT), Vite (MIT), fflate (MIT) y @xmldom/xmldom (MIT), con sus avisos de licencia en los paquetes instalados. Las dependencias de desarrollo son de sus respectivos autores. El lockfile fija las versiones verificadas.
+
+No se ha reutilizado código de Bitwarden. KDBX es el formato documentado por KeePass: https://keepass.info/help/kb/kdbx.html . Motor: https://github.com/keeweb/kdbxweb . Argon2: https://github.com/Daninet/hash-wasm .
+
+Al distribuir el build se deben conservar las licencias y avisos de los componentes; la publicación del código propio no cambia sus licencias.
